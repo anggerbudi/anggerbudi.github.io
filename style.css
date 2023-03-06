@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
+
 *{
     margin: 0;
     padding: 0;
@@ -72,7 +73,7 @@ section#quote_generator{
     font-size: 2rem;
 }
 
-header{
+header {
     position: fixed;
     top: 0;
     left: 0;
